@@ -1,1 +1,1 @@
-# mini-python
+# develop sales analysis dashboard
